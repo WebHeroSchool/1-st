@@ -2,41 +2,35 @@
   .container{
     font-size: 14px;
     font-family: Arial, sans-serif;
-    background-color: #40bad5;
   }
 }
 @media (min-width:481px) {
   .container{
     font-size: 18px;
     font-family: Arial, sans-serif;
-    background-color: #888888;
   }
 }
 @media (min-width:641px) {
   .container{
     font-size: 22px;
     font-family: Arial, sans-serif;
-    background-color: #ffac41;
   }
 }
 @media (min-width:961px) {
   .container{
     font-size: 26px;
     font-family: Arial, sans-serif;
-    background-color: #be79df;
   }
 }
 @media (min-width:1025px) {
   .container{
     font-size: 30px;
     font-family: Arial, sans-serif;
-    background-color: #6886c5;
   }
 }
 @media (min-width:1281px) {
   .container{
     font-size: 34px;
     font-family: Arial, sans-serif;
-    background-color: #679b9b;
   }
 }
